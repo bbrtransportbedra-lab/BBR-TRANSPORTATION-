@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bbrtransportation.netlify.app/sitemap.xml
