@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from 'react'
+kiimport { useState, useEffect, useRef, useCallback } from 'react'
 
 /* ── Constants ── */
 const PHONE1      = 'tel:+919008702735'
@@ -650,7 +650,7 @@ const blogPosts = [
     cat: 'Heritage',
     title: 'History and Heritage of Moodubidire — The Jain Cultural Capital',
     excerpt: 'Explore the rich cultural and historical significance of Moodubidire — home to the iconic Thousand Pillar Temple.',
-    img: 'https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=600&q=80',
+    img: 'Moodubidire.png',
     readTime: '10 min read',
   },
   {
