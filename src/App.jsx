@@ -586,7 +586,7 @@ function About() {
 
             <div className="about-body">
               <p>
-                BBR Transportation was established in 2010 and has proudly served the residents, businesses and commercial customers of Moodubidire and Dakshina Kannada for over 15 years. We built this business on a foundation of punctuality, care, and genuine service.
+                BBR Transportation which is also called as Badigege Bedra Rider was established in 2010 and has proudly served the residents, businesses and commercial customers of Moodubidire and Dakshina Kannada for over 15 years. We built this business on a foundation of punctuality, care, and genuine service.
               </p>
               <p>
                 Whether you're a homeowner moving across town, a shop owner needing stock replenishment, or a construction firm requiring daily material runs — our Tata Ace and Mahindra Bolero Pickup fleet is always ready.
@@ -617,7 +617,7 @@ function About() {
    COVERAGE MARQUEE
 ══════════════════════════════ */
 function CoverageStrip() {
-  const places = ['Moodubidire','Mangalore','Karkala','Bantwal','Belthangady','Puttur','Sullia','Uppinangady','Vitla','Dharmasthala','Mudbidri','Dakshina Kannada']
+  const places = ['Moodubidire','Mangalore','Karkala','Bantwal','Belthangady','Puttur','Sullia','Uppinangady','Vitla','Dharmasthala','Udupi','Dakshina Kannada']
   return (
     <div className="coverage-strip" aria-label="Service coverage areas">
       <div className="coverage-track">
