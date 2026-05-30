@@ -641,7 +641,7 @@ const blogPosts = [
     cat: 'Business',
     title: 'Why BBR Transportation is the Most Trusted Transport Service in Moodubidire',
     excerpt: 'Discover why 500+ customers trust BBR Transportation for all their logistics needs across Dakshina Kannada since 2010.',
-    img: 'https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=600&q=80',
+    img: '/fleet.jpg',
     readTime: '8 min read',
     featured: true,
   },
