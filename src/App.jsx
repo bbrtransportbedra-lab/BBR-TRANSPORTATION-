@@ -567,7 +567,7 @@ function About() {
                 loading="lazy"
               />
               <div className="about-badge-float">
-                <span className="num"><AnimCounter target={500} suffix="+" /></span>
+                <span className="num"><AnimCounter target={5000} suffix="+" /></span>
                 <span className="lbl">Customers<br />Served</span>
               </div>
             </div>
