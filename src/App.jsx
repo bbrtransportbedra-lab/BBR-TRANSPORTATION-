@@ -1,4 +1,4 @@
-kiimport { useState, useEffect, useRef, useCallback } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 
 /* ── Constants ── */
 const PHONE1      = 'tel:+919008702735'
