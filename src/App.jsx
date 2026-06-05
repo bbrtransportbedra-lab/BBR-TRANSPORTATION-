@@ -642,7 +642,7 @@ const blogPosts = [
     cat: 'Guide',
     title: 'Complete House Shifting Guide for Moodubidire Residents',
     excerpt: 'A comprehensive checklist and guide for anyone planning a household shift in Moodubidire or Dakshina Kannada.',
-    img: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80',
+    img: '/Shifting.png',
     readTime: '12 min read',
   },
   {
