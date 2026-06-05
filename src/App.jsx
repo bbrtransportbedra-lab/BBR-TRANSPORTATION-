@@ -666,7 +666,7 @@ const blogPosts = [
     cat: 'Business Tips',
     title: 'How Small Businesses in Moodubidire Can Improve Deliveries',
     excerpt: 'Practical strategies for local businesses to optimize last-mile delivery and reduce logistics costs.',
-    img: 'https://images.unsplash.com/photo-1577495508048-b635879837f1?w=600&q=80',
+    img: '/BBR.LOCAL.png',
     readTime: '5 min read',
   },
 ]
