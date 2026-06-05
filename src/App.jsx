@@ -309,7 +309,7 @@ function Hero() {
   const go = useCallback(idx => setCurrent(((idx % total) + total) % total), [total])
   const startAuto = useCallback(() => {
     clearInterval(autoRef.current)
-    autoRef.current = setInterval(() => setCurrent(c => (c + 1) % total), 500)
+    autoRef.current = setInterval(() => setCurrent(c => (c + 1) % total), 5000)
   }, [total])
   useEffect(() => { startAuto(); return () => clearInterval(autoRef.current) }, [startAuto])
   const prev = () => { go(current - 1); startAuto() }
