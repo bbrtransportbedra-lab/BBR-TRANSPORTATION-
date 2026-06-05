@@ -267,7 +267,7 @@ const heroSlides = [
       { label: 'Call Now', href: PHONE1, cls: 'btn-primary', icon: <PhoneIcon size={16}/> },
       { label: 'WhatsApp Us', href: WHATSAPP, cls: 'btn-outline', icon: <WAIcon size={16}/>, ext: true },
     ],
-    badges: ['500+ Customers Served', 'Since 2010', 'Dakshina Kannada Coverage'],
+    badges: ['5000+ Customers Served', 'Since 2010', 'Dakshina Kannada Coverage'],
   },
   {
     bg: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1800&q=85',
@@ -562,7 +562,7 @@ function About() {
               <img src={IMG_FLEET} onError={e => { e.target.src='https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=700&q=80' }} alt="BBR Transportation fleet" className="about-img-main" loading="lazy" />
               <img src={IMG_ACE} onError={e => { e.target.src='https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&q=80' }} alt="BBR Transportation Tata Ace" className="about-img-accent" loading="lazy" />
               <div className="about-badge-float">
-                <span className="num"><AnimCounter target={500} suffix="+" /></span>
+                <span className="num"><AnimCounter target={5000} suffix="+" /></span>
                 <span className="lbl">Customers<br />Served</span>
               </div>
             </div>
