@@ -634,7 +634,7 @@ const blogPosts = [
     cat: 'Heritage',
     title: 'History and Heritage of Moodubidire — The Jain Cultural Capital',
     excerpt: 'Explore the rich cultural and historical significance of Moodubidire — home to the iconic Thousand Pillar Temple.',
-    img: /IMG_MDB,
+    img: '/IMG_MDB',
     readTime: '10 min read',
   },
   {
